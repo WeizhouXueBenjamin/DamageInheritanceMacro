@@ -1,4 +1,4 @@
-# DamageInheritanceMacro
+# Damage Inheritance Macro for game Abiotic Factor
 This macro leverages a known exploit in Abiotic Factor's damage system. By attacking with a heavy weapon and immediately switching to a high-damage secondary weapon, the game applies the secondary weapon's damage instantly while bypassing its swing time. This allows players to deal massive damage in a fraction of the time, effectively ignoring weapon cooldowns and animation delays.
 
 # How to use it:
